@@ -4,7 +4,7 @@
 
 #### A NewBie exploring the amazing world of ✨Front End Development ✨
 
-#### and working on cool projects to enhance my skills 🚀
+#### Working on cool projects to enhance my skills 🚀
 <!--
 **adyashapadhy/adyashapadhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
